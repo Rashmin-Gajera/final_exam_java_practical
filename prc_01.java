@@ -4,7 +4,7 @@ public class prc_01{
         Scanner sc = new Scanner(System.in);
          System.out.println("Welcome in Java");
          System.out.println("Learning Java Now");
-         System.out.println("Programing is fun");
+         System.out.println("Programing is fun so enjoy it");
 
         sc.close();
     }
