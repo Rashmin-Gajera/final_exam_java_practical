@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch student",
+            "request": "launch",
+            "mainClass": "student",
+            "projectName": "Practice_610effa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "Practice_610effa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch khush_p",
+            "request": "launch",
+            "mainClass": "khush_p",
+            "projectName": "Practice_610effa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch stack",
+            "request": "launch",
+            "mainClass": "stack",
+            "projectName": "Practice_610effa6"
+        },
+        {
+            "type": "java",
+            "name": "Launch stack_khush",
+            "request": "launch",
+            "mainClass": "stack_khush",
+            "projectName": "Practice_610effa6"
+        }
+    ]
+}
